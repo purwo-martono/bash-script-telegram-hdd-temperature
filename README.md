@@ -34,5 +34,5 @@ do
   arrIN=(${IN/:/})
   lines+="${br}${arrIN[1]} ${arrIN[2]} "
 done
-telegram-send "HDDTEMP MRANGGEN $ipAddress$lines")
+telegram-send "HDDTEMP YOUR_SERVER $ipAddress$lines")
 ```
