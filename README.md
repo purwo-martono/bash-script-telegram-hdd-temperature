@@ -1,0 +1,1 @@
+# bash-script-telegram-hdd-temperature
